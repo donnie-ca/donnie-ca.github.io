@@ -11,11 +11,7 @@ labels:
 summary: "Developed a Simon Says game using the Raspberry Pi Pico, a programmable microcontroller board."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Using the Raspberry Pi Pico, a programmable microcontroller board, I created a replica of the classic "Simon Says" game. This is a memory game where the player has to push the right buttons corresponding to the random sequence of the LEDs. The sequence progressively gets longer, starting from 1 and ending at 8. The player instantly loses when the wrong button is pressed.
 
