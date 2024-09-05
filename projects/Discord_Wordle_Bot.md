@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/wordleprojectpic.jpg
 title: "Discord Wordle Bot"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A discord bot you can add to a server and play wordle with"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/wordleprojectpic.jpg">
 
 Wordle is an online game that has you guessing a random word in 6 tries. I've decided to create a discord bot that so I could add it into a server and play the same game in discord. This can make the game more interesting and interactive because your friends may be watching you live while you fail to guess your word. This project was done using node.js, an open-source JavaScript runtime environment. To initialize the bot, discord.js (a node.js module used to interact with the discord API) was used. 
 
