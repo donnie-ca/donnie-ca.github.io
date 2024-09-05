@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/SimonSaysprojectpic.jpg
 title: "Binary Simon Says Game"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Developed a Simon Says game using the Raspberry Pi Pico, a programmable microcontroller board."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/SimonSaysprojectpic.jpg">
 
 Using the Raspberry Pi Pico, a programmable microcontroller board, I created a replica of the classic "Simon Says" game. This is a memory game where the player has to push the right buttons corresponding to the random sequence of the LEDs. The sequence progressively gets longer, starting from 1 and ending at 8. The player instantly loses when the wrong button is pressed.
 
