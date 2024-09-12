@@ -1,20 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "A Newbie's Perspective on TypeScript"
+title: "Developing My Future"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2024-09-11
 published: true
 labels:
   - Software Engineering
   - TypeScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescriptlogoreal.png">
+## My journey thus far
 
-## My experience with TypeScript so far
-
-As a complete newbie to TypeScript, my initial experience with the language was slightly confusing, mainly due to its syntax. As a computer engineering major, I probably don't do as much programming as my computer science peers, and in turn haven't been exposed to as many languages. Having primarily worked with C and C++ for the majority of my college courses so far, learning JavaScript and TypeScript felt a bit challenging at first. When I was learning the basics of JavaScript, the concept of using "var" and "let" instead of declaring the data type definitely felt odd. Then came along TypeScript, where I was required to declare the types of the variable, but in a syntax I wasn't used to. During the first practice WODs, I found myself having to look online or ask my classmates for help on how to get the proper syntax. However, as I continue to learn, I am starting to feel more comfortable with TypeScript. The languages type-safety features have gradually begun to make more sense and it has become more enjoyable to learn.
+Since I was a kid, I've always been a little bit of a tech nerd. My knowledge was very limited of course, but I was always the kid to go to whenever any of my classmates had a simple computer problem. Despite this, I've never actually taken any programming or computer related classes in high school, and I was unsure of what I wanted to do as a career. My interest in majoring in computer engineering piqued after I graduated high school, when I spontaneously decided to learn python on my own. I was drawn in by the complexity and endless possibilities of things that are possible to create with the knowledge of programming, and I was fascinated by how the applications we use on a daily basis are built by words and numbers on a screen, and on an even lower level, by 1s and 0s. As of this moment, I am now in my fourth year of university with about a year left until graduation, and I am glad I took this route for my career.
 
 ## My experience with the class's style of learning 
 
