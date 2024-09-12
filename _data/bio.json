@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "donnie-ca", "url": "http://github.com/donnie-ca" },
       { "network": "linkedin", "username": "donaldcanaday", "url": "https://www.linkedin.com/in/donald-canaday-7b0870203/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "donnie_ca", "url": "https://www.instagram.com/donnie_ca/" }
     ]
   },
