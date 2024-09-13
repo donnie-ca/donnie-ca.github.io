@@ -54,6 +54,6 @@ Output /Chill/chill/batch/design
 ```
 There are many glaring problems in this question just by taking a glance at it. To start, the header is very vague and does not describe any specific issues, but rather just tells the readers what the overall project is. In the main body of the post, the author unneccesarily restates the title and then states the desired output for specific inputs. A better way of asking this question would be to attempt to solve the problem by themselves, identifying any issues or bugs, and then posting the symptoms of the errors and providing the code to StackOverflow. In this question, there was no code or bugs provided, and it seemed more like a "homework question" than anything else.
 
-##Conclusion
+## Conclusion
 
 As a result of this experience, I was able to differentiate between asking questions the smart way and the not-smart way. Analyzing these two different types of questions in depth helped me understand the little things that make big differences in the quality of a question. Now that I know the aspects required for a smart and meaningful inquiry, I will be able to utilize this knowledge to get more value out of the questions I ask, whether it be in person or through an online forum like StackOVerflow. 
