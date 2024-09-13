@@ -6,8 +6,7 @@ title: "Smart and Not-so-Smart Questions"
 date: 2024-09-12
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - StackOverflow
 ---
 
 ## Why are smart questions important?
