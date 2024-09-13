@@ -42,8 +42,6 @@ This post checks many of the boxes in the guidelines provided by Eric Raymond. F
 
 To demonstrate an example of a not-so-smart question, here is an example that a StackOverflow user provided titled [Remove Alphanumeric string and following character from end of the string in power BI](https://stackoverflow.com/questions/78981017/remove-alphanumeric-string-and-following-character-from-end-of-the-string-in-pow). The page contains the following:
 ```
-0
-
 I want to remove alphanumeric string and all the following characters from the end of a string in column in power bi
 
 example 1: Input /Chill/chill/batch/design/961057df-7a86-4159-a532-f6919175f478/version
