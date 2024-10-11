@@ -1,7 +1,7 @@
 
 ---
 layout: essay
-type: essay
+# type: essay
 title: "The Struggle of Learning Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
