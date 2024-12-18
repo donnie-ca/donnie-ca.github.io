@@ -16,46 +16,46 @@ AI has been transforming education by providing tools and methods to enhance lea
 
 ## Personal Experience
 
-1. Experience WODs e.g. E18
+1. Experience WODs e.g. E18<br>
     In the experience WODs, ChatGPT has helped me a lot on understanding certain concepts that are not as familiar to me. In digits, I used AI to help break down the code so I could better understand how it is connected to the postgres database.
    
-2. In-class Practice WODs
+2. In-class Practice WODs<br>
     If my partner and I were both stuck on the same section of a practice WOD, we would often use AI to provide the code to use and help us better understan the concept.
    
-3. In-class WODs
+3. In-class WODs<br>
     AI has saved me from getting a DNF on multiple WODs, especially some of the later, more complicated WODs. For example, even though I do not know a lot of the tools available in bootstrap, asking ChatGPT for things like "create a grid of images with text centered in each of them" has saved me from taking possibly several minutes looking through documentation.
    
-4. Essays
+4. Essays<br>
     I did not use AI for essays because I feel that it does not help very much when I'm writing about my personal experience. Though looking back, it definitely could have helped in structuring my essays better.
    
-5. Final project
+5. Final project<br>
     AI was a crucial role in the final project, as there were some concepts required for our website that were not covered in class. For example, I used AI to help me remove items from a user's cart after chekcking out ther order, then having all the user's past orders show up on their account page as well as have their checkout out order show up on the admin's page.
    
-6. Learning a concept / tutorial
+6. Learning a concept / tutorial<br>
     AI is a big help when learning a new concept. Instead of scavenging through google and looking through documentation, AI can obtain all that information and provide it to me in a well organized explanation. I have used this technique many times when trying to learn the intricacies of React and Postgres.
 
-7. Answering a question in class or in Discord
+7. Answering a question in class or in Discord<br>
     I chose not to use AI for answering questions during discussions and rather relied on my understanding of the concept. Though I did not use AI, I still got the benefits of classmates giving input provided by AI.
     
-8. Asking or answering a smart-question
+8. Asking or answering a smart-question<br>
     I did not partake in answering any smart questions in the class discord. Whenever I did have a question to ask I would look through the discord beforehand for anyone asking the same question, and there has always been someone with the same smart question followed by a well explained answer.
     
-9. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”<br>
     I have used AI to give me a coding example for multiple WODs. For example, I have asked ChatGPT to give me an example of using the .map function because I was having trouble understanding the syntax of the funciton.
    
-10. Explaining code
+10. Explaining code<br>
     Having AI explaining code is an excellent way of learning new coding concepts when I'm not really sure whats going on in the code. I have used AI to break down code in digits and explain to me how the database is connected.
     
-11. Writing code
+11. Writing code<br>
     For writing code, I would often paste instructions into ChatGPT to obtain code, then go through it to better understand whats going on and also look for any mistakes the AI made. For example, "Create a function that filters an array of objects with the x attribute being above a certain number".
     
-12. Documenting code
+12. Documenting code<br>
     I have never used AI to help document code because I haven't had trouble doing so in the past. As long as I am able to understand the code, documenting it has not been much of an issue.
     
-13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”<br>
     When fixing ESLint errors, I occasionally copy the error message and any relevant code to speed up the process, as there are often many ESLint errors that I want to get through as fast as possible.
 
-14. Other uses in ICS 314 not listed
+14. Other uses in ICS 314 not listed<br>
     The above list has covered all my use of AI in this course. My main uses of AI in ICS 314 has been providing and explaining code for WODs and the final project.
 
 ## Impact of AI on my learning experience
