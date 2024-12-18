@@ -52,7 +52,7 @@ AI has been transforming education by providing tools and methods to enhance lea
 12. Documenting code<br>
     I have never used AI to help document code because I haven't had trouble doing so in the past. As long as I am able to understand the code, documenting it has not been much of an issue.
     
-13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”<br>
+13. Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors in <>”<br>
     When fixing ESLint errors, I occasionally copy the error message and any relevant code to speed up the process, as there are often many ESLint errors that I want to get through as fast as possible.
 
 14. Other uses in ICS 314 not listed<br>
