@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SimonSaysprojectpic.jpg
+image: img/landingpageM2.png
 title: "3D-Wizards"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "Created an online website and store for the 3D-Wizards business that sells 3D printed toys"
 ---
 
-<img class="img-fluid" src="../img/SimonSaysprojectpic.jpg">
+<img class="img-fluid" src="../img/landingpageM2.png">
 
 For ICS 314, me and 4 other team members created an online store for one of our team member's business called 3D-Wizards. The webpage contains a store subpage, where users can browse products and customize things like quantity and colors. They are able to add items to their cart, which creates an entry in the postgres database and displays it on the user's cart page. Once the user chekcs out their cart, the orders will be sent to the admin page which can only be accessed by an admin account. There are also other functionalities to the webpage, such as a custom order page where users may request for a completely custom 3D printed product, an about page, a gallery page, and more.
 
