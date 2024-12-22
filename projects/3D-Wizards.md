@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landingpageM2.png
+image: img/landingpageM2cropped.png
 title: "3D-Wizards"
 date: 2024
 published: true
