@@ -20,5 +20,5 @@ For ICS 314, me and 4 other team members created an online store for one of our 
 
 In this project we practiced issue driven project management, meaning the project was divided into a list of issues that were self-assigned. One of the things I worked on in the project is having the store and cart pages connect to the database. I developed the functionality of a table entry being created in the database whenever a user added an item to their cart, and then the cart page displaying each entry in the table in an oranized fashion. This contribution created a foundation to many of the future goals of the projects like displaying the user's orders on the admin page. This project allowed me to gain the valuable experience of being a part of a successful software development project and I have also gained skills such as using JavaScript, PostgreSQL, and using github to manage the development process with a team.
 
-[Deployed Website](https://3-d-wizards-inc-two.vercel.app/)
+[Deployed Website](https://3-d-wizards-inc-two.vercel.app/) <br />
 [Github organization home page](https://3d-wizards-inc.github.io/)
